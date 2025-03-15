@@ -7,4 +7,6 @@ def main():
 
 if __name__ == "__main__":
     print("Este programa no debe ser importado.")
+    print("Por favor")
+    print("Ejecuta el programa de nuevo.")
     main()
